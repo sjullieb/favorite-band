@@ -1,0 +1,23 @@
+.intro{
+    font-size: 20px;
+    border-width: 5px;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 20px;
+    background-color: teal;
+    margin: 30px;
+}
+.sidebar {
+  float: right;
+  color: red;
+  width: 20%;
+  background-color: green;
+  border: 5px;
+  border-style: dotted dashed solid double;
+  padding: 10px;
+}
+
+.column{
+  width: 200px;
+  float: left;
+}
