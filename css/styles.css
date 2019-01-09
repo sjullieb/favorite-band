@@ -17,7 +17,19 @@
   padding: 10px;
 }
 
-.column{
+.column1{
   width: 200px;
   float: left;
+  background-color: blue;
+}
+
+.column2{
+  width: 200px;
+  float: left;
+  background-color: yellow;
+}
+.column3{
+  width: 200px;
+  float: left;
+  background-color: red;
 }
